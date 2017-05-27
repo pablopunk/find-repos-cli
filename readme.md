@@ -39,6 +39,10 @@ Use `find-repos -h` to display the following help:
     $ find-repos repos/ -m 2 -i dist -i node_modules
 ```
 
+## Contribute
+
+Feel free to open an [issue](https://github.com/pablopunk/find-repos/issues/new) or a [PR](https://github.com/pablopunk/find-repos/compare).
+
 ## Related
 
 The API for this module => [find-repos](https://github.com/pablopunk/find-repos)
