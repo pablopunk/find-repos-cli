@@ -1,7 +1,10 @@
 # find-repos-cli
 
 <p align="center">
-  Find git repos recursively from your command line
+  <i>Find git repos recursively from your command line</i>
+</p>
+<p align="center">
+  <a href="https://www.npmjs.com/package/find-repos-cli"><img src="https://img.shields.io/npm/dt/find-repos-cli.svg" /></a>
 </p>
 
 ## Install
