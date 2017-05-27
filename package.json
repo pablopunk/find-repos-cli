@@ -1,0 +1,21 @@
+{
+  "name": "find-repos-cli",
+  "version": "1.0.0",
+  "description": "Find git repos recursively",
+  "bin": {
+    "find-repos": "index.js"
+  },
+  "author": "Pablo Varela",
+  "license": "MIT",
+  "dependencies": {
+    "args": "^3.0.2",
+    "find-repos": "^1.1.0"
+  },
+  "keywords": [
+    "git",
+    "repos",
+    "find",
+    "cli",
+    "command"
+  ]
+}
