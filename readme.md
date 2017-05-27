@@ -15,7 +15,7 @@ npm install --global find-repos-cli
 Use `find-repos -h` to display the following help:
 
 ```bash
-Commands:
+  Commands:
     help  Display help
   
   Options:
