@@ -5,6 +5,7 @@
 </p>
 <p align="center">
   <a href="https://www.npmjs.com/package/find-repos-cli"><img src="https://img.shields.io/npm/dt/find-repos-cli.svg" /></a>
+  <a href="https://github.com/feross/standard"><img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg" alt="Code Style" /></a>
 </p>
 
 ## Install
@@ -40,6 +41,8 @@ Use `find-repos -h` to display the following help:
 ```
 
 ## Contribute
+
+[![JavaScript Style Guide](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 
 Feel free to open an [issue](https://github.com/pablopunk/find-repos/issues/new) or a [PR](https://github.com/pablopunk/find-repos/compare).
 

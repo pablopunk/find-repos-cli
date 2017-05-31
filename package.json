@@ -2,6 +2,9 @@
   "name": "find-repos-cli",
   "version": "1.0.0",
   "description": "Find git repos recursively",
+  "scripts": {
+    "test": "standard"
+  },
   "bin": {
     "find-repos": "index.js"
   },
@@ -17,5 +20,8 @@
     "find",
     "cli",
     "command"
-  ]
+  ],
+  "devDependencies": {
+    "standard": "^10.0.2"
+  }
 }
